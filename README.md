@@ -62,9 +62,10 @@ project_demo.mp4 (optional)
 ### 🔗 Published Dashboards on Tableau Public
 > *(Replace `#` with your actual links after publishing)*
 
-- Story Board https://public.tableau.com/views/story1_17514750180800/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- [GDP vs Freedom Correlation](#)
-- [Top 40 Countries by GDP Growth](#)
+- Story Board
+- https://public.tableau.com/views/StoryBoard_17514753280580/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- DashBoard
+- https://public.tableau.com/views/Dashboard_17514752674210/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
