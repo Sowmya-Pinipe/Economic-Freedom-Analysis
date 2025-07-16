@@ -83,7 +83,8 @@ A short story explains:
 
 
 ### Story View
-![Story Screenshot](screenshots/story_view.png)
+<img width="1912" height="988" alt="storyboard_view" src="https://github.com/user-attachments/assets/bdb7f701-6866-46a7-91bf-c49aa6a0bf08" />
+
 
 ---
 
