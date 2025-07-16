@@ -72,8 +72,8 @@ A short story explains:
 
 *(Optional — add only if published online)*
 
-[🔗 View Dashboard on Tableau Public](https://public.tableau.com/app/profile/YOURUSERNAME/viz/YourDashboardName/Story)
-
+[🔗 View Dashboard on Tableau Public]
+https://public.tableau.com/views/Dashboard_17514752674210/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## 📸 Screenshots
