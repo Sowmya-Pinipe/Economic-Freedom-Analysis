@@ -54,17 +54,18 @@ A short story explains:
 
 ---
 
-## 📝 Storyline
+## 📖 Storyline Summary
 
-#### Slide: Top 40 Countries in Economic Freedom (2022)
-> The Top 40 countries rank highest in economic freedom, led by Singapore, Switzerland, and Ireland.  
-> These nations benefit from strong legal systems, low corruption, and open markets.  
-> Higher freedom scores often align with greater GDP, investment inflow, and social stability.
-
-#### Slide: 2022 Economic Freedom Score – Global Patterns
-> The 2022 Economic Freedom Score reflects how nations uphold property rights, market openness, and regulatory efficiency.  
-> Countries with higher scores often enjoy stronger economies, stable prices, and better living standards.  
-> This visualization shows how freedom levels vary worldwide and highlights regions leading in economic liberty.
+- **Top 40 Countries in Economic Freedom (2022)** – Highlights leading nations with highest scores.
+- **Global Pattern of Economic Freedom** – Shows worldwide differences in freedom levels.
+- **Bottom Countries in Economic Freedom** – Reveals nations facing economic restrictions.
+- **Economic Freedom vs. Unemployment** – Analyzes how freedom relates to job markets.
+- **Financial Freedom Treemap** – Displays country scores for financial sector openness.
+- **Index Score by Population** – Compares freedom across countries with different populations.
+- **5-Year GDP Growth Gantt Chart** – Shows long-term growth trends linked to freedom.
+- **Inflation Rate Area Graph** – Explores how inflation varies with freedom levels.
+- **Correlation between Inflation and Unemployment** – Examines economic trade-offs.
+- **Top 40 Countries by GDP Growth Map** – Highlights fastest-growing economies.
 
 ---
 
@@ -114,9 +115,17 @@ project_demo.mp4
 README.md
 
 ---
+## 🔍 Key Insights
+
+- Countries with high economic freedom enjoy higher GDP growth and lower inflation.
+- Bottom-ranking nations face challenges like political instability and restricted markets.
+- Economic freedom strongly relates to job creation and economic resilience.
+
 
 ## 👤 Author
 
 - **Name:** Sowmya Pinipe
+- **Name:** 22h41a0535sowmya@gmail.com
 - **SmartInternz Project:** Index of Economic Freedom Analysis
+  
 
