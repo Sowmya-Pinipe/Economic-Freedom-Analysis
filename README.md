@@ -79,7 +79,7 @@ A short story explains:
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard Screenshot](screenshots/dashboard_view.png)
+https://github.com/Sowmya-Pinipe/Economic-Freedom-Analysis/blob/main/screenshots/dashboard.png
 
 ### Story View
 ![Story Screenshot](screenshots/story_view.png)
