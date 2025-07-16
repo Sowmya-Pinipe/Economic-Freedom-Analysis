@@ -103,7 +103,7 @@ tableau/
 economic_freedom_dashboard.twbx
 
 screenshots/
-dashboard_view.png
+dashboard.png
 story_view.png
 
 demo/
