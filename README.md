@@ -1,45 +1,101 @@
 # 📊 Measuring the Pulse of Prosperity: An Index of Economic Freedom Analysis
 
-## 📁 Category
-**Data Analytics with Tableau**
+## 📂 Category
+Data Analytics with Tableau
 
-## 🛠️ Skills Used
+---
+
+## 🛠 Skills Used
 - Exploratory Data Analysis (EDA)
+- SQL / Databases
 - Tableau (Dashboard, Story)
-- MySQL / Databases
-- Data Visualization
-- Publishing to Tableau Public
 
 ---
 
-## 📌 Introduction
+## 🌐 Project Overview
 
-Economic freedom is the fundamental right of every human to control their own labor and property. In an economically free society, individuals are free to work, produce, consume, and invest in any way they please. Governments allow labor, capital, and goods to move freely and refrain from coercion or constraint beyond what is necessary to maintain liberty itself.
+Economic freedom reflects how easily people can work, produce, trade, and invest without excessive government interference. Countries with high economic freedom tend to experience greater prosperity, higher GDP growth, and better social outcomes.
 
-This project is based on the **2022 Index of Economic Freedom**, an annual guide published by **The Heritage Foundation**. The dataset includes 12 factors grouped into four broad categories:
-
-### Pillars of Economic Freedom:
-1. **Rule of Law** – Property rights, Government integrity, Judicial effectiveness  
-2. **Government Size** – Government spending, Tax burden, Fiscal health  
-3. **Regulatory Efficiency** – Business freedom, Labor freedom, Monetary freedom  
-4. **Open Markets** – Trade freedom, Investment freedom, Financial freedom  
+This project analyzes the **Index of Economic Freedom (2022)** published by The Heritage Foundation. It explores how economic freedom relates to GDP, inflation, monetary freedom, and other economic indicators.
 
 ---
 
-## 🎯 Objectives
+## 📈 Dataset
 
-- Analyze and visualize the economic freedom indicators across different countries.
-- Explore relationships between:
-  - GDP (PPP)
-  - Inflation
-  - Unemployment
-  - Monetary Freedom
-- Identify patterns among high vs low freedom economies.
-- Create an interactive and narrative-based Tableau Story to summarize insights.
+- **Name:** Index of Economic Freedom
+- **Source:** [The Heritage Foundation](https://www.heritage.org/index/)
+- **Description:** Contains data on economic freedom scores for ~180 countries, broken into:
+  - Rule of Law (property rights, judicial effectiveness, government integrity)
+  - Government Size (spending, tax burden, fiscal health)
+  - Regulatory Efficiency (business, labor, monetary freedom)
+  - Open Markets (trade, investment, financial freedom)
+
+File:
+datasets/index_of_economic_freedom.csv
 
 ---
 
-## 📂 Project Structure
+## 📊 Tableau Visualizations
+
+### Dashboard
+
+- Visualizes economic freedom scores by country and region
+- Shows correlation between:
+  - GDP (PPP) vs Economic Freedom
+  - Inflation vs Economic Freedom
+- Highlights Top 40 countries in Economic Freedom Index
+
+### Story
+
+A short story explains:
+- Key insights from the top-ranking countries
+- Patterns in economic freedom and prosperity
+- How regulatory efficiency and open markets drive growth
+
+---
+
+## 📝 Storyline
+
+#### Slide: Top 40 Countries in Economic Freedom (2022)
+> The Top 40 countries rank highest in economic freedom, led by Singapore, Switzerland, and Ireland.  
+> These nations benefit from strong legal systems, low corruption, and open markets.  
+> Higher freedom scores often align with greater GDP, investment inflow, and social stability.
+
+#### Slide: 2022 Economic Freedom Score – Global Patterns
+> The 2022 Economic Freedom Score reflects how nations uphold property rights, market openness, and regulatory efficiency.  
+> Countries with higher scores often enjoy stronger economies, stable prices, and better living standards.  
+> This visualization shows how freedom levels vary worldwide and highlights regions leading in economic liberty.
+
+---
+
+## 🔗 Tableau Public Dashboard
+
+*(Optional — add only if published online)*
+
+[🔗 View Dashboard on Tableau Public](https://public.tableau.com/app/profile/YOURUSERNAME/viz/YourDashboardName/Story)
+
+---
+
+## 📸 Screenshots
+
+### Dashboard View
+![Dashboard Screenshot](screenshots/dashboard_view.png)
+
+### Story View
+![Story Screenshot](screenshots/story_view.png)
+
+---
+
+## 🎥 Demo Video
+
+*(Optional but recommended for SmartInternz)*
+
+[▶️ Watch Demo Video](https://youtu.be/YOUR_VIDEO_LINK)
+
+---
+
+## 📁 Project Structure
+
 datasets/
 index_of_economic_freedom.csv
 
@@ -48,78 +104,17 @@ economic_freedom_dashboard.twbx
 
 screenshots/
 dashboard_view.png
-storyboard_view.png
+story_view.png
 
 demo/
-project_demo.mp4 (optional)
+project_demo.mp4
 
-
-
----
-
-## 📊 Tableau Dashboards
-
-### 🔗 Published Dashboards on Tableau Public
-> *(Replace `#` with your actual links after publishing)*
-
-- Story Board
-- https://public.tableau.com/views/StoryBoard_17514753280580/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- DashBoard
-- https://public.tableau.com/views/Dashboard_17514752674210/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+README.md
 
 ---
 
-## 🖼️ Screenshots
+## 👤 Author
 
-### Dashboard Sample:
-![Dashboard Screenshot](screenshots/dashboard_view.png)
-
-### Storyboard Sample:
-![Storyboard Screenshot](screenshots/storyboard_view.png)
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone this repository or download the ZIP.
-2. Open the `.twbx` file using Tableau Desktop.
-3. Use filters to explore:
-   - Regions
-   - Economic Freedom categories
-   - Comparison across countries
-4. Optionally connect the dataset to MySQL for extended database exploration.
-
----
-
-## 📈 Key Insights
-
-- Countries with **higher monetary freedom** typically report **stronger GDP (PPP)**.
-- **Low inflation** often correlates with higher economic freedom scores.
-- Top economic performers have better **regulatory efficiency** and **open market freedom**.
-- Nations with **low economic freedom** also show higher government spending and fiscal burdens.
-
----
-
-## 🎥 Project Demonstration (Optional)
-> *(Upload your demo video to the `demo/` folder or YouTube and link it here)*
-
-- [[Watch Demo]
-- (https://drive.google.com/file/d/1bAMNLQF4UQNPZbpqSIKkKAF211L6Z5nK/view?usp=sharing)]
-
----
-
-## 🧾 License
-
-This project is developed as part of a SmartInternz Guided Project. Dataset sourced from The Heritage Foundation's Index of Economic Freedom.
-
----
-
-## 🙋‍♀️ Author
-
-**Sowmya Pinipe**  
-SmartInternz Student  
-JNTUK Guided Project 2025  
-
-
-
+- **Name:** Sowmya Pinipe
+- **SmartInternz Project:** Index of Economic Freedom Analysis
 
