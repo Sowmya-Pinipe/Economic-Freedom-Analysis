@@ -75,6 +75,8 @@ A short story explains:
 [🔗 View Dashboard on Tableau Public]
 https://public.tableau.com/views/Dashboard_17514752674210/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
+ 🔗 Tableau Public Story
+https://public.tableau.com/views/StoryBoard_17514753280580/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📸 Screenshots
 
