@@ -91,10 +91,7 @@ https://public.tableau.com/views/StoryBoard_17514753280580/Story1?:language=en-U
 
 ## 🎥 Demo Video
 
-*(Optional but recommended for SmartInternz)*
-
 (https://github.com/Sowmya-Pinipe/Economic-Freedom-Analysis/blob/main/demo/economic_freedom_demo.mp4)
-
 
 ---
 
