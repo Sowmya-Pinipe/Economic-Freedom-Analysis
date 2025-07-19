@@ -93,7 +93,8 @@ https://public.tableau.com/views/StoryBoard_17514753280580/Story1?:language=en-U
 
 *(Optional but recommended for SmartInternz)*
 
-[▶️ Watch Demo Video](https://youtu.be/YOUR_VIDEO_LINK)
+(https://github.com/Sowmya-Pinipe/Economic-Freedom-Analysis/blob/main/demo/economic_freedom_demo.mp4)
+
 
 ---
 
